@@ -29,7 +29,7 @@ Repository layout
 
 Each project folder contains a short README and an example script you can run.
 
-Quick usage
+# Quick usage
 
 From the repository root, run the example scripts under `basic-ruby/`:
 
@@ -40,7 +40,7 @@ ruby basic-ruby/stock-piper/stock-piper.rb
 ruby basic-ruby/bubble-sort/bubble-sort.rb
 ```
 
-Contributing
+# Contributing
 
 - Make a branch named `feature/<short-name>` for changes.
 - Commit with clear messages and open a PR when ready.
