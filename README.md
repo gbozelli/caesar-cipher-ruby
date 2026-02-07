@@ -14,19 +14,6 @@ The course structure mirrors a typical curriculum and the projects listed below 
 - Advanced Ruby: pattern matching, blocks, custom enumerables
 - Testing with RSpec: TDD introduction and testing projects
 - Computer Science basics: recursion, time/space complexity, data structures
-# basic-ruby-projects
-
-A compact, project-based Ruby course with small exercises organized under the `basic-ruby/` folder.
-
-Repository layout
-
-- `basic-ruby/`
-  - `bubble-sort/`
-  - `caesar-cipher/`
-  - `stock-piper/`
-  - `substrings/`
-
-Each project folder contains a short README and an example script you can run.
 
 # Quick usage
 
